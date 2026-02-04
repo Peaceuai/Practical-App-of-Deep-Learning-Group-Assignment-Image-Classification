@@ -1,4 +1,4 @@
-# Practical-App-of-Deep-Learning-Group-Assignment---Image-Classification
+# Practical-App-of-Deep-Learning-Group-Assignment-Image-Classification
 # README
 Our idea for this project is to use CNN to effectively extract the spatial hierarchical features of images to classify them. The main technical framework used is Pytorch, and the main programming language is Python. Pytorch is a deep learning framework that can help us build and train CNN well.
 
